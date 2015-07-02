@@ -31,23 +31,17 @@ select the checkbox next to the bucket you created in step 3, click
 
 ~~sub-section~~
 
-## Cloning and setup
+## Downloading the Google App Engine PHP starter-project
 
 ~~sub-section~~
 
-### Step 1: Clone
+Download the starter project for Either Variants
 
-~~sub-section~~
+1. Mac OSX
+2. Windows
+3. Linux
 
-Clone this git repo and its submodules by running the following commands:
-
-    git clone --recursive https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project.git
-    cd appengine-php-wordpress-starter-project/
-
-You now have a copy of [WordPress](http://wordpress.org/), the
-[App Engine plugin for WordPress](http://wordpress.org/plugins/google-app-engine/),
-[Batcache](http://wordpress.org/plugins/batcache/), and
-[Memcached Object Cache](http://wordpress.org/plugins/memcached/).
+Visit  [googlecloudplatform.github.io/appengine-php-wordpress-starter-project](http://googlecloudplatform.github.io/appengine-php-wordpress-starter-project/)
 
 ~~sub-section~~
 
@@ -58,26 +52,6 @@ You now have a copy of [WordPress](http://wordpress.org/), the
 Edit `wp-config.php` and `app.yaml`, replacing `your-project-id`
 to match the Project ID (not the name) that was assigned to your
 Google Cloud Platform project.
-
-~~sub-section~~
-
-### Step 3: Move files into place:
-
-~~sub-section~~
-
-Because of GitHub and licensing limitations, we can't put these files in the right places for you.
-
-Run this script to move all the files into place:
-
-    move_files_after_editing.sh
-
-This script:
-
-1. Moves `wp-config.php` from root into `wordpress/`, replacing the file there.
-2. Moves `batcache/advanced-cache.php` to `wordpress/wp-content/`
-3. Moves `batcache/batcache.php` to `wordpress/wp-content/plugins/`
-4. Moves `wp-memcache/object-cache.php` to `wordpress/wp-content/`
-5. Moves the contents of `appengine-wordpress-plugin/` to `wordpress/wp-content/plugins/`
 
 ~~sub-section~~
 
