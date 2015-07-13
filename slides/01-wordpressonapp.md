@@ -83,12 +83,16 @@ Visit  [googlecloudplatform.github.io/appengine-php-wordpress-starter-project](h
 
 ~~sub-section~~
 
-Edit `wp-config.php` and `app.yaml`, replacing `your-project-id`
-to match the Project ID (not the name) that was assigned to your
-Google Cloud Platform project.
+## Edit wp-config.php
+
+![](./img/11.png)
 
 ~~sub-section~~
 
+## Edit app.yaml
+![](./img/12.png)
+
+~~sub-section~~
 ## Running WordPress locally
 
 ~~sub-section~~
