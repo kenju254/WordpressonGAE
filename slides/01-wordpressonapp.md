@@ -8,29 +8,63 @@
 
 - [MySQL Server](http://dev.mysql.com/downloads/)
 
-~~sub-section~~
-
-##Prerequisite
+- [Google Cloud Platfrom Account](http://cloud.google.com/console)
 
 ~~sub-section~~
 
-## Prerequisites
-
-1. Install the [PHP SDK for Google App Engine](https://developers.google.com/appengine/downloads#Google_App_Engine_SDK_for_PHP)
-2. Install [MySQL](http://dev.mysql.com/downloads/)
-3. [Sign up](http://cloud.google.com/console) for a Google Cloud Platform project, and
-set up a Cloud SQL instance, as described [here](https://developers.google.com/cloud-sql/docs/instances), and a
-Cloud Storage bucket, as described [here](https://developers.google.com/storage/docs/signup). You'll want to name
-your Cloud SQL instance "wordpress" to match the config files provided here.
-4. Visit your project in the
-[Google Cloud Console](http://cloud.google.com/console), going to the App Engine section's **Application Settings**
-area, and make a note of the **Service Account Name** for your application, which has an e-mail address
-(e.g. `<PROJECT_ID>@appspot.gserviceaccount.com`). Then, visit the Cloud Storage section of your project,
-select the checkbox next to the bucket you created in step 3, click
-**Bucket Permissions**, and add your Service Account Name as a **User** account that has **Writer** permission.
+##Setting up Google Cloud Platfrom Project
 
 ~~sub-section~~
 
+## Go to the console
+
+![](./img/01.png)
+
+~~sub-section~~
+
+## Create a new project once in the console
+
+![](./img/02.png)
+
+~~sub-section~~
+## Status of new project that has been created
+![](./img/03.png)
+
+~~sub-section~~
+## Download the GAE SDK 
+
+![](./img/04.png)
+~~sub-section~~
+##On the Console go to your app and hit Compute
+
+![](./img/05.png)
+~~sub-section~~
+## Create a Google Cloud Storage Bucket
+
+![](./img/06.png)
+~~sub-section~~
+
+## Create a bucket name
+![](./img/07.png)
+
+~~sub-section~~
+## Create a  Cloud SQL instance
+
+![](./img/08.png)
+
+~~sub-section~~
+## Create a Cloud SQL instance (..cont)
+
+![](./img/09.png)
+~~sub-section~~
+##Created Cloud SQL instance
+
+![](./img/10.png)
+
+~~sub-section~~
+Getting into the Google Cloud Platfrom Site 
+
+~~sub-section~~
 ## Downloading the Google App Engine PHP starter-project
 
 ~~sub-section~~
