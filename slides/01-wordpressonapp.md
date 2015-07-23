@@ -187,8 +187,10 @@ Now, just like you did when WordPress was running locally, you'll need to run th
     http://<PROJECT_ID>.appspot.com/wp-admin/install.php
 
 ~~sub-section~~
+## Go to the Admin and Login
+![](../img/24.png)
 
-
+~~sub-section~~
 ### Activating the plugins, configuring email, and hooking up WordPress to your Cloud Storage
 
 ~~sub-section~~
@@ -198,6 +200,8 @@ Now, just like you did when WordPress was running locally, you'll need to run th
 ![](../img/22.png)
 
 #### Configuring email and hooking WordPress up to your Cloud Storage
+
+~~sub-section~~
 
 ![](../img/23.png)
 
