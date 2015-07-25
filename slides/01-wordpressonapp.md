@@ -2,7 +2,7 @@
 ~~sub-section~~
 
 ## Wordpress
-![](../img/wordpress.png)
+![](./img/wordpress.png)
 
 ~~sub-section~~
 
@@ -111,7 +111,7 @@
 
 ## Move to the directory with your Google App Engine files
 
-![](../img/16.png)
+![](./img/16.png)
 
 ~~sub-section~~
 
@@ -141,13 +141,13 @@
 ~~sub-section~~
 
 ##  Load the database
-![](../img/17.png)
+![](./img/17.png)
 
 ~~sub-section~~
 
 On Mac and Windows, the default is to use the PHP binaries bundled with the SDK and you just need the launcher
 
-![](../img/18.png)
+![](./img/18.png)
 
 ~~sub-section~~
 On Linux, or to use your own PHP binaries, use:
@@ -163,22 +163,22 @@ the setup process, changing the port number from 8080 if you aren't using the de
 
 ~~sub-section~~
 
-![](../img/19.png)
+![](./img/19.png)
 
 ~~sub-section~~
 Just like you had to do with the local database, you'll need to set up the Cloud SQL instance. The SDK includes
 a tool for doing just that:
 
-![](../img/20.png)
+![](./img/20.png)
 
 ~~sub-section~~
 Accept Cloud SQL to manage your services
 
-![](../img/21.png)
+![](./img/21.png)
 ~~sub-section~~
 ## Create Database
 
-![](../img/17.png)
+![](./img/17.png)
 
 ~~sub-section~~
 
@@ -188,7 +188,7 @@ Now, just like you did when WordPress was running locally, you'll need to run th
 
 ~~sub-section~~
 ## Go to the Admin and Login
-![](../img/24.png)
+![](./img/24.png)
 
 ~~sub-section~~
 ### Activating the plugins, configuring email, and hooking up WordPress to your Cloud Storage
@@ -197,13 +197,13 @@ Now, just like you did when WordPress was running locally, you'll need to run th
 
 #### Activating the plugins
 
-![](../img/22.png)
+![](./img/22.png)
 
 #### Configuring email and hooking WordPress up to your Cloud Storage
 
 ~~sub-section~~
 
-![](../img/23.png)
+![](./img/23.png)
 
 ~~sub-section~~
 
@@ -213,7 +213,7 @@ Now, just like you did when WordPress was running locally, you'll need to run th
 
 ## Congratulations 
 
-![](../img/finalproj.png)
+![](./img/finalproj.png)
 
 ~~sub-section~~
 
