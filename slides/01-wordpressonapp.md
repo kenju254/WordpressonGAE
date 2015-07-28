@@ -85,6 +85,8 @@
 2. Google Cloud SQL Instance
 3. Downloading the Wordpress on Google App Engine Starter kit
 
+~~sub-section~~
+
 ![](./img/05.png)
 ~~sub-section~~
 ## Create a Google Cloud Storage Bucket
