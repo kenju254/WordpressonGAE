@@ -14,7 +14,7 @@
 
 ~~sub-section~~
 
-## Ok . Why delpoy it on  Google App Engine?
+## Ok . Why deploy it on  Google App Engine?
 
 ~~sub-section~~
 
