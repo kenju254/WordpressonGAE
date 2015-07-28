@@ -14,8 +14,9 @@
 
 ~~sub-section~~
 
-## Ok . Why deploy it on  Google App Engine?
+##  Why should  they be friends?
 
+![](./img/header.png)
 ~~sub-section~~
 
  GAE is Google Cloud Platform's PaaS
