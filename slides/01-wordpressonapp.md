@@ -49,7 +49,7 @@
 
 - [MySQL Server](http://dev.mysql.com/downloads/)
 
-- [Google Cloud Platfrom Account](http://cloud.google.com/console)
+- [Google Cloud Platform Account](http://cloud.google.com/console)
 
 ~~sub-section~~
 
