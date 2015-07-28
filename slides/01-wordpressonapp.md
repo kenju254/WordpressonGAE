@@ -53,7 +53,7 @@
 
 ~~sub-section~~
 
-##Setting up a Google Cloud Platfrom Project
+##Setting up a Google Cloud Platform Project
 
 ~~sub-section~~
 
