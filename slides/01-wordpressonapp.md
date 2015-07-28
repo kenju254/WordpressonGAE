@@ -79,13 +79,14 @@
 ##On the Console go to your app and hit Compute
 
 ~~sub-section~~
-## We will perform the following during Set up
+### We will perform the following in the next steps
 
 1. Google Cloud Storage Bucket
 2. Google Cloud SQL Instance
 3. Downloading the Wordpress on Google App Engine Starter kit
 
 ~~sub-section~~
+## Hit Compute Option
 
 ![](./img/05.png)
 ~~sub-section~~
