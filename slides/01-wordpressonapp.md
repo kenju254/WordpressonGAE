@@ -14,7 +14,7 @@
 
 ~~sub-section~~
 
-## Ok . They why delpoy it on  Google App Engine?
+## Ok . Why delpoy it on  Google App Engine?
 
 ~~sub-section~~
 
@@ -27,7 +27,7 @@
 
 ~~sub-section~~
 
-## This is what we are building
+## This is what we will be  building today
 
 [gdgnairobigae.appspot.com](http://gdgnairobigae.appspot.com)
 
@@ -53,7 +53,7 @@
 
 ~~sub-section~~
 
-##Setting up Google Cloud Platfrom Project
+##Setting up a Google Cloud Platfrom Project
 
 ~~sub-section~~
 
@@ -75,14 +75,12 @@
 ## Download the GAE SDK 
 
 ![](./img/04.png)
-~~sub-section~~
-##On the Console go to your app and hit Compute
 
 ~~sub-section~~
 ### We will perform the following in the next steps
 
-1. Google Cloud Storage Bucket
-2. Google Cloud SQL Instance
+1. Creating a Google Cloud Storage Bucket
+2. Creating a Google Cloud SQL Instance
 3. Downloading the Wordpress on Google App Engine Starter kit
 
 ~~sub-section~~
@@ -125,7 +123,7 @@
 
 ~~sub-section~~
 
-## Step 2: Edit the config files
+## Edit the config files
 
 ~~sub-section~~
 
@@ -201,7 +199,7 @@ Now, just like you did when WordPress was running locally, you'll need to run th
 ![](./img/24.png)
 
 ~~sub-section~~
-### Activating the plugins, configuring email, and hooking up WordPress to your Cloud Storage
+### Activating the plugins, configuring email, and hookng up WordPress to your Cloud Storage Bucket
 
 ~~sub-section~~
 
@@ -209,9 +207,9 @@ Now, just like you did when WordPress was running locally, you'll need to run th
 
 ![](./img/22.png)
 
-#### Configuring email and hooking WordPress up to your Cloud Storage
-
 ~~sub-section~~
+
+#### Configuring email and hooking WordPress up to your Cloud Storage
 
 ![](./img/23.png)
 
@@ -227,11 +225,10 @@ Now, just like you did when WordPress was running locally, you'll need to run th
 
 ~~sub-section~~
 
-### Maintaining Tips 
-
-~~sub-section~~
+### Maintaining Tips
 
 1. Maintain a local version of the app to maintain themes and plugins.
 2. To update a theme or plugin install it locally and redeploy
 3. Remember you can't upload on Google App Engine's files system.
+
 
